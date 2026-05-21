@@ -265,8 +265,8 @@ VCapital Strategy Engine
 
 ---
 
-**Built with precision by [VQuant](https://github.com/VQuant68) — Professional Quantitative Trading Solutions**
 
-*© 2025 VQuant. All rights reserved.*
+
+*© 2026 Nguyendung. All rights reserved.*
 
 </div>
