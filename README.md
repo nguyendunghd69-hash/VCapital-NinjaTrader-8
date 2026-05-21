@@ -247,8 +247,8 @@ VCapital Strategy Engine
 
 | | |
 |:--|:--|
-| 👨‍💻 **Developer** 
-| 🐙 **GitHub** https://github.com/nguyendunghd69-hash
+| 👨‍💻 **Developer** | Nguyen Dung |
+| 🐙 **GitHub** | https://github.com/nguyendunghd69-hash |
 | 📧 **Inquiries** | Licensing, custom development, support |
 
 </div>
