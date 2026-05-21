@@ -247,8 +247,8 @@ VCapital Strategy Engine
 
 | | |
 |:--|:--|
-| 👨‍💻 **Developer** | VQuant |
-| 🐙 **GitHub** | [@VQuant68](https://github.com/VQuant68) |
+| 👨‍💻 **Developer** 
+| 🐙 **GitHub** https://github.com/nguyendunghd69-hash
 | 📧 **Inquiries** | Licensing, custom development, support |
 
 </div>
